@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1701450341 source:e:\pwd intake 44\c\labs\project\electronic_store\store_operations.c
+
+1701462207 source:e:\pwd intake 44\c\labs\project\electronic_store\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Store_Operations.h"
+
+1701462736 e:\pwd intake 44\c\labs\project\electronic_store\store_operations.h
+
+1701804001 source:c:\electronic_store\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Store_Operations.h"
+	<windows.h>
+
+1701804419 c:\electronic_store\store_operations.h
+	<ctype.h>
+
